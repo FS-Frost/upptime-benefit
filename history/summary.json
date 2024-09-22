@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/190.114.255.81.ico",
     "slug": "benefit",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "48.05%",
+    "uptimeDay": "48.05%",
+    "uptimeWeek": "48.05%",
+    "uptimeMonth": "48.05%",
+    "uptimeYear": "48.05%",
     "time": 241,
     "timeDay": 241,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-22": 94,
+      "2024-09-21": 647
     }
   }
 ]
